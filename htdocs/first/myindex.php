@@ -6,3 +6,4 @@
 		echo "The answer is $answer, what ";
 	?>
 </p>
+<a></a>
